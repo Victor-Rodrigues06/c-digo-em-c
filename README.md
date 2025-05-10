@@ -1,2 +1,2 @@
-# c-digo-em-c
+# codigo-em-c
 códigos realizados na linguagem c
